@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# Copyright (C) 2016 Umesh Ghoshdastider, All rights reserved, version 1.0, date 2015/01/07
-
+# Copyright (C) 2019 Umesh Ghoshdastider, All rights reserved, version 1.0
 # Installation Instructions
 
 # Ubuntu, Mint and other Debian based distributions
