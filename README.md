@@ -1,5 +1,5 @@
 # fastbiotools
-GUI of bioinformatics softwares
+GUI of bioinformatics softwares for sequence analysis, alignment, phylogentic analysis
 
 # Requirements
 ## Mac
